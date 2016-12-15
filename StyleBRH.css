@@ -1,0 +1,35 @@
+body{
+    background-color: dimgray;
+}
+
+h1{
+    color: deepskyblue;
+    text-align: center;
+}
+h2{
+    color: deepskyblue;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+.Image{
+    text-align: center;
+}
+
+.CalvinHarrisPic{
+    text-align: center;
+}
+
+.KSHMRPic{
+    text-align: center;
+}
+
+.MartinGarrixPic{
+  text-align: center;
+}
+.CurbiPic{
+    text-align: center;
+    
+}
