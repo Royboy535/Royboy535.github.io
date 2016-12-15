@@ -1,0 +1,35 @@
+body{
+    background-color: dimgray;
+}
+
+h1{
+    color: deepskyblue;
+    text-align: center;
+}
+h2{
+    color: deepskyblue;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+.Image{
+    text-align: center;
+}
+
+.Tchami{
+    text-align: center;
+}
+
+.OliverHeldensPic{
+    text-align: center;
+}
+
+.MikeMagoPic{
+  text-align: center;
+}
+.CurbiPic{
+    text-align: center;
+    
+}
