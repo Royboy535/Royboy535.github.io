@@ -1,0 +1,17 @@
+Real Stage	My Model
+H:18 ft		H:12 in
+W:?		W:20.5 in
+
+18ft = 216in
+
+Real Child	My Child
+H:About 5 ft	H: 3 in
+
+Real Peach Tree	My Peach Tree
+H:6ft		H:4 in
+
+Real Grass	My Grass
+H:2 in		H:.25cm
+
+Real Background My Background
+H:		H:8 in
